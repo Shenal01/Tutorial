@@ -1,0 +1,8 @@
+﻿  Book.cpp
+  Manager.cpp
+C:\Users\SHENAL\source\repos\OOC Group project SHENAL new\OOC Group project SHENAL new\Manager.cpp(5,1): warning C4005: 'SIZE': macro redefinition
+C:\Users\SHENAL\source\repos\OOC Group project SHENAL new\OOC Group project SHENAL new\Manager.h(4,1): message : see previous definition of 'SIZE'
+  OOC Group project SHENAL new.cpp
+  Registered_user.cpp
+  Generating Code...
+  OOC Group project SHENAL new.vcxproj -> C:\Users\SHENAL\source\repos\OOC Group project SHENAL new\x64\Debug\OOC Group project SHENAL new.exe
